@@ -1,0 +1,12 @@
+ABBA Reconstruction Error mean 29.596998621782724
+SymED online Reconstruction Error mean 13.25002271548156
+SymED offline Reconstruction Error mean 29.252642612893133
+ABBA Dimension Reduction Rate mean 0.07716787411452183
+SymED Dimension Reduction Rate mean 0.09494163109617657
+ABBA Compression Rate mean 0.030681153770471953
+SymED Compression Rate mean 0.09494163109617657
+ABBA Offline Latency mean 2.012833977977579
+SymED Offline Latency mean 5.301831937046945
+SymED Online Latency Sender mean 0.03023064441678889
+SymED Online Latency Receiver mean 0.011514831293544211
+Finished in 30964.38 seconds
